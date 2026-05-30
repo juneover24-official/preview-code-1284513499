@@ -1,7 +1,7 @@
 {
   "qq_number": "1284513499",
   "group_number": "1065262655",
-  "updated_at": "2026-05-29T02:43:22+00:00",
+  "updated_at": "2026-05-30T09:25:53+00:00",
   "skins": [
     {
       "name": "小新园长无漂浮",
@@ -26,6 +26,12 @@
       "file": "小新园长.bdi",
       "thumb": "小新园长.bdi_py_26_light_thumb.png",
       "full": "小新园长.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "小狗史努比无漂浮",
+      "file": "小狗史努比无漂浮.bdi",
+      "thumb": "小狗史努比无漂浮.bdi_py_26_light_thumb.png",
+      "full": "小狗史努比无漂浮.bdi_py_26_light_thumb.png"
     }
   ]
 }
