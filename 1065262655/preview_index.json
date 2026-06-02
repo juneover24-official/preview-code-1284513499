@@ -1,7 +1,7 @@
 {
   "qq_number": "1284513499",
   "group_number": "1065262655",
-  "updated_at": "2026-06-02T05:11:44+00:00",
+  "updated_at": "2026-06-02T05:12:30+00:00",
   "skins": [
     {
       "name": "小新园长无漂浮",
@@ -92,6 +92,12 @@
       "file": "巴斯光年没电了.bdi",
       "thumb": "巴斯光年没电了.bdi_py_26_light_thumb.png",
       "full": "巴斯光年没电了.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "巴斯光年没电了无漂浮",
+      "file": "巴斯光年没电了无漂浮.bdi",
+      "thumb": "巴斯光年没电了无漂浮.bdi_py_26_light_thumb.png",
+      "full": "巴斯光年没电了无漂浮.bdi_py_26_light_thumb.png"
     }
   ]
 }
