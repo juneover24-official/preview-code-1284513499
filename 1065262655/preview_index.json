@@ -1,7 +1,7 @@
 {
   "qq_number": "1284513499",
   "group_number": "1065262655",
-  "updated_at": "2026-06-02T03:22:44+00:00",
+  "updated_at": "2026-06-02T05:01:21+00:00",
   "skins": [
     {
       "name": "小新园长无漂浮",
@@ -56,6 +56,12 @@
       "file": "乖乖要听话.bdi",
       "thumb": "乖乖要听话.bdi_py_26_light_thumb.png",
       "full": "乖乖要听话.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "乖乖要听话无漂浮",
+      "file": "乖乖要听话无漂浮.bdi",
+      "thumb": "乖乖要听话无漂浮.bdi_py_26_light_thumb.png",
+      "full": "乖乖要听话无漂浮.bdi_py_26_light_thumb.png"
     }
   ]
 }
