@@ -1,7 +1,7 @@
 {
   "qq_number": "1284513499",
   "group_number": "1065262655",
-  "updated_at": "2026-06-02T05:13:27+00:00",
+  "updated_at": "2026-06-02T05:14:20+00:00",
   "skins": [
     {
       "name": "小新园长无漂浮",
@@ -104,6 +104,12 @@
       "file": "我要考大学.bdi",
       "thumb": "我要考大学.bdi_py_26_light_thumb.png",
       "full": "我要考大学.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "我要考大学无漂浮",
+      "file": "我要考大学无漂浮.bdi",
+      "thumb": "我要考大学无漂浮.bdi_py_26_light_thumb.png",
+      "full": "我要考大学无漂浮.bdi_py_26_light_thumb.png"
     }
   ]
 }
