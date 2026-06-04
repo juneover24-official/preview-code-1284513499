@@ -1,7 +1,7 @@
 {
   "qq_number": "1284513499",
   "group_number": "1065262655",
-  "updated_at": "2026-06-04T08:19:37+00:00",
+  "updated_at": "2026-06-04T08:20:44+00:00",
   "skins": [
     {
       "name": "小新园长无漂浮",
@@ -112,16 +112,16 @@
       "full": "我要考大学无漂浮.bdi_py_26_light_thumb.png"
     },
     {
-      "name": "芝士啃不停",
-      "file": "芝士啃不停.bdi",
-      "thumb": "芝士啃不停.bdi_py_26_light_thumb.png",
-      "full": "芝士啃不停.bdi_py_26_light_thumb.png"
-    },
-    {
       "name": "芝士啃不停无漂浮",
       "file": "芝士啃不停无漂浮.bdi",
       "thumb": "芝士啃不停无漂浮.bdi_py_26_light_thumb.png",
       "full": "芝士啃不停无漂浮.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "芝士啃不停",
+      "file": "芝士啃不停.bdi",
+      "thumb": "芝士啃不停.bdi_py_26_light_thumb.png",
+      "full": "芝士啃不停.bdi_py_26_light_thumb.png"
     }
   ]
 }
