@@ -1,7 +1,7 @@
 {
   "qq_number": "1284513499",
   "group_number": "1067369657",
-  "updated_at": "2026-06-06T14:09:43+00:00",
+  "updated_at": "2026-06-06T14:09:55+00:00",
   "skins": [
     {
       "name": "马德豆沙の小狗史努比",
@@ -29,15 +29,15 @@
     },
     {
       "name": "马德豆沙の安妮的狗",
-      "file": "安妮的狗无漂浮.bds",
-      "thumb": "安妮的狗无漂浮.bds_py_26_light_thumb.png",
-      "full": "安妮的狗无漂浮.bds_py_26_light_thumb.png"
-    },
-    {
-      "name": "马德豆沙の安妮的狗",
       "file": "安妮的狗.bds",
       "thumb": "安妮的狗.bds_py_26_light_thumb.png",
       "full": "安妮的狗.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "马德豆沙の安妮的狗",
+      "file": "安妮的狗无漂浮.bds",
+      "thumb": "安妮的狗无漂浮.bds_py_26_light_thumb.png",
+      "full": "安妮的狗无漂浮.bds_py_26_light_thumb.png"
     }
   ]
 }
