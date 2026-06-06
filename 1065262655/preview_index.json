@@ -1,7 +1,7 @@
 {
   "qq_number": "1284513499",
   "group_number": "1065262655",
-  "updated_at": "2026-06-06T13:29:24+00:00",
+  "updated_at": "2026-06-06T13:29:36+00:00",
   "skins": [
     {
       "name": "小新园长无漂浮",
@@ -128,6 +128,12 @@
       "file": "安妮的狗无漂浮.bdi",
       "thumb": "安妮的狗无漂浮.bdi_py_26_light_thumb.png",
       "full": "安妮的狗无漂浮.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "安妮的狗",
+      "file": "安妮的狗.bdi",
+      "thumb": "安妮的狗.bdi_py_26_light_thumb.png",
+      "full": "安妮的狗.bdi_py_26_light_thumb.png"
     }
   ]
 }
