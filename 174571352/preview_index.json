@@ -1,13 +1,19 @@
 {
   "qq_number": "1284513499",
   "group_number": "174571352",
+  "updated_at": "2026-06-13T10:16:25+00:00",
   "skins": [
     {
       "name": "豆豆小姐无漂浮",
       "file": "豆豆小姐无漂浮.bdi",
       "thumb": "豆豆小姐无漂浮.bdi_py_26_light_thumb.png",
       "full": "豆豆小姐无漂浮.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "豆豆小姐",
+      "file": "豆豆小姐.bdi",
+      "thumb": "豆豆小姐.bdi_py_26_light_thumb.png",
+      "full": "豆豆小姐.bdi_py_26_light_thumb.png"
     }
-  ],
-  "updated_at": "2026-06-13T10:16:14+00:00"
+  ]
 }
