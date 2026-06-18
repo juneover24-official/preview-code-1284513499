@@ -1,7 +1,7 @@
 {
   "qq_number": "1284513499",
   "group_number": "174571352",
-  "updated_at": "2026-06-15T13:34:56+00:00",
+  "updated_at": "2026-06-18T09:00:54+00:00",
   "skins": [
     {
       "name": "豆豆小姐无漂浮",
@@ -26,6 +26,12 @@
       "file": "吃口不无漂浮.bdi",
       "thumb": "吃口不无漂浮.bdi_py_26_light_thumb.png",
       "full": "吃口不无漂浮.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "小熊记事本之条纹",
+      "file": "小熊记事本之条纹.bdi",
+      "thumb": "小熊记事本之条纹.bdi_py_26_light_thumb.png",
+      "full": "小熊记事本之条纹.bdi_py_26_light_thumb.png"
     }
   ]
 }
