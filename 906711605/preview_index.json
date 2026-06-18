@@ -1,7 +1,7 @@
 {
   "qq_number": "1284513499",
   "group_number": "906711605",
-  "updated_at": "2026-06-18T09:11:58+00:00",
+  "updated_at": "2026-06-18T09:12:10+00:00",
   "skins": [
     {
       "name": "马德豆沙の豆豆小姐",
@@ -38,6 +38,12 @@
       "file": "小熊记事本之波点.bds",
       "thumb": "小熊记事本之波点.bds_py_26_light_thumb.png",
       "full": "小熊记事本之波点.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "马德豆沙の小熊记事本",
+      "file": "小熊记事本之格子.bds",
+      "thumb": "小熊记事本之格子.bds_py_26_light_thumb.png",
+      "full": "小熊记事本之格子.bds_py_26_light_thumb.png"
     }
   ]
 }
