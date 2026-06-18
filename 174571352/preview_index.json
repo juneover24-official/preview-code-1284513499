@@ -1,7 +1,7 @@
 {
   "qq_number": "1284513499",
   "group_number": "174571352",
-  "updated_at": "2026-06-18T10:39:42+00:00",
+  "updated_at": "2026-06-18T10:40:48+00:00",
   "skins": [
     {
       "name": "豆豆小姐无漂浮",
@@ -34,12 +34,6 @@
       "full": "小熊记事本之条纹.bdi_py_26_light_thumb.png"
     },
     {
-      "name": "小熊记事本之波点",
-      "file": "小熊记事本之波点.bdi",
-      "thumb": "小熊记事本之波点.bdi_py_26_light_thumb.png",
-      "full": "小熊记事本之波点.bdi_py_26_light_thumb.png"
-    },
-    {
       "name": "小熊记事本",
       "file": "小熊记事本.bdi",
       "thumb": "小熊记事本.bdi_py_26_light_thumb.png",
@@ -50,6 +44,12 @@
       "file": "小熊记事本之格子.bdi",
       "thumb": "小熊记事本之格子.bdi_py_26_light_thumb.png",
       "full": "小熊记事本之格子.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "小熊记事本之波点",
+      "file": "小熊记事本之波点.bdi",
+      "thumb": "小熊记事本之波点.bdi_py_26_light_thumb.png",
+      "full": "小熊记事本之波点.bdi_py_26_light_thumb.png"
     }
   ]
 }
