@@ -1,7 +1,7 @@
 {
   "qq_number": "1284513499",
   "group_number": "1032700799",
-  "updated_at": "2026-06-26T12:31:54+00:00",
+  "updated_at": "2026-06-26T12:32:58+00:00",
   "skins": [
     {
       "name": "豆豆小姐",
@@ -62,6 +62,12 @@
       "file": "小熊记事本之波点.bdi",
       "thumb": "小熊记事本之波点.bdi_py_26_light_thumb.png",
       "full": "小熊记事本之波点.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "小熊记事本",
+      "file": "小熊记事本.bdi",
+      "thumb": "小熊记事本.bdi_py_26_light_thumb.png",
+      "full": "小熊记事本.bdi_py_26_light_thumb.png"
     }
   ]
 }
