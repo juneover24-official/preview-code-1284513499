@@ -1,7 +1,7 @@
 {
   "qq_number": "1284513499",
   "group_number": "906711605",
-  "updated_at": "2026-06-22T15:00:46+00:00",
+  "updated_at": "2026-06-26T07:33:21+00:00",
   "skins": [
     {
       "name": "马德豆沙の豆豆小姐",
@@ -68,6 +68,12 @@
       "file": "呱呱叫.bds",
       "thumb": "呱呱叫.bds_py_26_light_thumb.png",
       "full": "呱呱叫.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "马德豆沙の小咪出行记",
+      "file": "小咪出行记.bds",
+      "thumb": "小咪出行记.bds_py_26_light_thumb.png",
+      "full": "小咪出行记.bds_py_26_light_thumb.png"
     }
   ]
 }
