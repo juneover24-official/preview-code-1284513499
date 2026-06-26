@@ -1,7 +1,7 @@
 {
   "qq_number": "1284513499",
   "group_number": "1032700799",
-  "updated_at": "2026-06-26T08:12:33+00:00",
+  "updated_at": "2026-06-26T08:14:22+00:00",
   "skins": [
     {
       "name": "豆豆小姐",
@@ -14,6 +14,12 @@
       "file": "吃口不.bdi",
       "thumb": "吃口不.bdi_py_26_light_thumb.png",
       "full": "吃口不.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "小小kitty咪无漂浮",
+      "file": "小小kitty咪无漂浮.bdi",
+      "thumb": "小小kitty咪无漂浮.bdi_py_26_light_thumb.png",
+      "full": "小小kitty咪无漂浮.bdi_py_26_light_thumb.png"
     }
   ]
 }
