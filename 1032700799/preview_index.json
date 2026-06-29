@@ -1,7 +1,7 @@
 {
   "qq_number": "1284513499",
   "group_number": "1032700799",
-  "updated_at": "2026-06-29T18:16:10+00:00",
+  "updated_at": "2026-06-29T18:16:51+00:00",
   "skins": [
     {
       "name": "豆豆小姐",
@@ -104,6 +104,12 @@
       "file": "小熊记事本之条纹.bdi",
       "thumb": "小熊记事本之条纹.bdi_py_26_light_thumb.png",
       "full": "小熊记事本之条纹.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "呱呱叫",
+      "file": "呱呱叫.bdi",
+      "thumb": "呱呱叫.bdi_py_26_light_thumb.png",
+      "full": "呱呱叫.bdi_py_26_light_thumb.png"
     }
   ]
 }
