@@ -1,7 +1,7 @@
 {
   "qq_number": "1284513499",
   "group_number": "906711605",
-  "updated_at": "2026-07-02T13:45:57+00:00",
+  "updated_at": "2026-07-02T13:46:07+00:00",
   "skins": [
     {
       "name": "马德豆沙の豆豆小姐",
@@ -104,6 +104,12 @@
       "file": "一号小馋猪无漂浮.bds",
       "thumb": "一号小馋猪无漂浮.bds_py_26_light_thumb.png",
       "full": "一号小馋猪无漂浮.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "马德豆沙の小馋猪",
+      "file": "二号小馋猪无漂浮.bds",
+      "thumb": "二号小馋猪无漂浮.bds_py_26_light_thumb.png",
+      "full": "二号小馋猪无漂浮.bds_py_26_light_thumb.png"
     }
   ]
 }
