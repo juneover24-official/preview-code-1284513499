@@ -1,7 +1,7 @@
 {
   "qq_number": "1284513499",
   "group_number": "1032700799",
-  "updated_at": "2026-07-09T07:18:18+00:00",
+  "updated_at": "2026-07-09T07:19:07+00:00",
   "skins": [
     {
       "name": "豆豆小姐",
@@ -137,15 +137,15 @@
     },
     {
       "name": "马德豆沙の下雨啦",
-      "file": "下雨啦无漂浮.bdi",
-      "thumb": "下雨啦无漂浮.bdi_py_26_light_thumb.png",
-      "full": "下雨啦无漂浮.bdi_py_26_light_thumb.png"
-    },
-    {
-      "name": "马德豆沙の下雨啦",
       "file": "下雨啦.bdi",
       "thumb": "下雨啦.bdi_py_26_light_thumb.png",
       "full": "下雨啦.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "马德豆沙の下雨啦",
+      "file": "下雨啦无漂浮.bdi",
+      "thumb": "下雨啦无漂浮.bdi_py_26_light_thumb.png",
+      "full": "下雨啦无漂浮.bdi_py_26_light_thumb.png"
     }
   ]
 }
