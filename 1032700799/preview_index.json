@@ -1,7 +1,7 @@
 {
   "qq_number": "1284513499",
   "group_number": "1032700799",
-  "updated_at": "2026-07-10T05:58:03+00:00",
+  "updated_at": "2026-07-10T06:11:05+00:00",
   "skins": [
     {
       "name": "豆豆小姐",
@@ -152,6 +152,12 @@
       "file": "熊猫发呆无漂浮.bdi",
       "thumb": "熊猫发呆无漂浮.bdi_py_26_light_thumb.png",
       "full": "熊猫发呆无漂浮.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "马德豆沙の熊猫发呆",
+      "file": "熊猫发呆.bdi",
+      "thumb": "熊猫发呆.bdi_py_26_light_thumb.png",
+      "full": "熊猫发呆.bdi_py_26_light_thumb.png"
     }
   ]
 }
