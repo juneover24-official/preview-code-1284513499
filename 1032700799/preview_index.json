@@ -1,7 +1,7 @@
 {
   "qq_number": "1284513499",
   "group_number": "1032700799",
-  "updated_at": "2026-07-12T07:25:38+00:00",
+  "updated_at": "2026-07-12T07:33:47+00:00",
   "skins": [
     {
       "name": "豆豆小姐",
@@ -161,15 +161,15 @@
     },
     {
       "name": "马德豆沙の一本可爱书",
-      "file": "一本可爱书无漂浮.bdi",
-      "thumb": "一本可爱书无漂浮.bdi_py_26_light_thumb.png",
-      "full": "一本可爱书无漂浮.bdi_py_26_light_thumb.png"
-    },
-    {
-      "name": "马德豆沙の一本可爱书",
       "file": "一本可爱书.bdi",
       "thumb": "一本可爱书.bdi_py_26_light_thumb.png",
       "full": "一本可爱书.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "马德豆沙の一本可爱书",
+      "file": "一本可爱书无漂浮.bdi",
+      "thumb": "一本可爱书无漂浮.bdi_py_26_light_thumb.png",
+      "full": "一本可爱书无漂浮.bdi_py_26_light_thumb.png"
     }
   ]
 }
