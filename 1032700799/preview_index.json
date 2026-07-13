@@ -1,7 +1,7 @@
 {
   "qq_number": "1284513499",
   "group_number": "1032700799",
-  "updated_at": "2026-07-13T11:14:47+00:00",
+  "updated_at": "2026-07-13T11:14:59+00:00",
   "skins": [
     {
       "name": "豆豆小姐",
@@ -176,6 +176,12 @@
       "file": "公主请撑伞无漂浮.bdi",
       "thumb": "公主请撑伞无漂浮.bdi_py_26_light_thumb.png",
       "full": "公主请撑伞无漂浮.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "马德豆沙の公主请撑伞",
+      "file": "公主请撑伞.bdi",
+      "thumb": "公主请撑伞.bdi_py_26_light_thumb.png",
+      "full": "公主请撑伞.bdi_py_26_light_thumb.png"
     }
   ]
 }
