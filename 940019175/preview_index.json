@@ -1,13 +1,19 @@
 {
   "qq_number": "1284513499",
   "group_number": "940019175",
+  "updated_at": "2026-07-18T12:47:35+00:00",
   "skins": [
     {
       "name": "马德豆沙の小猫叠叠乐",
       "file": "小猫叠叠乐无漂浮.bdi",
       "thumb": "小猫叠叠乐无漂浮.bdi_py_26_light_thumb.png",
       "full": "小猫叠叠乐无漂浮.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "马德豆沙の小猫叠叠乐",
+      "file": "小猫叠叠乐.bdi",
+      "thumb": "小猫叠叠乐.bdi_py_26_light_thumb.png",
+      "full": "小猫叠叠乐.bdi_py_26_light_thumb.png"
     }
-  ],
-  "updated_at": "2026-07-18T11:27:24+00:00"
+  ]
 }
