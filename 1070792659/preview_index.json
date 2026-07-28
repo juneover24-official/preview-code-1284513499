@@ -1,7 +1,7 @@
 {
   "qq_number": "1284513499",
   "group_number": "1070792659",
-  "updated_at": "2026-07-25T04:21:21+00:00",
+  "updated_at": "2026-07-28T09:05:02+00:00",
   "skins": [
     {
       "name": "马德豆沙の小猫叠叠乐",
@@ -38,6 +38,12 @@
       "file": "小小几只无漂浮.bds",
       "thumb": "小小几只无漂浮.bds_py_26_light_thumb.png",
       "full": "小小几只无漂浮.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "马德豆沙の快乐涂鸦",
+      "file": "快乐涂鸦.bds",
+      "thumb": "快乐涂鸦.bds_py_26_light_thumb.png",
+      "full": "快乐涂鸦.bds_py_26_light_thumb.png"
     }
   ]
 }
