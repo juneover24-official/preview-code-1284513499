@@ -1,7 +1,7 @@
 {
   "qq_number": "1284513499",
   "group_number": "940019175",
-  "updated_at": "2026-08-03T04:19:57+00:00",
+  "updated_at": "2026-08-03T04:26:10+00:00",
   "skins": [
     {
       "name": "马德豆沙の小猫叠叠乐",
@@ -92,6 +92,12 @@
       "file": "西瓜味的夏天.bdi",
       "thumb": "西瓜味的夏天.bdi_py_26_light_thumb.png",
       "full": "西瓜味的夏天.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "马德豆沙の西瓜味的夏天",
+      "file": "西瓜味的夏天无漂浮.bdi",
+      "thumb": "西瓜味的夏天无漂浮.bdi_py_26_light_thumb.png",
+      "full": "西瓜味的夏天无漂浮.bdi_py_26_light_thumb.png"
     }
   ]
 }
