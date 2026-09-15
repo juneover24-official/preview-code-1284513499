@@ -1,6 +1,7 @@
 {
   "qq_number": "1284513499",
   "group_number": "1075362361",
+  "updated_at": "2026-09-15T15:55:44+00:00",
   "skins": [
     {
       "name": "马德豆沙の一口布丁",
@@ -8,7 +9,13 @@
       "thumb": "一口布丁.bdi_py_26_light_thumb.png",
       "full": "一口布丁.bdi_py_26_light_thumb.png",
       "file_id": "f426a9c33ac699810757cc0dd2f8bfe0"
+    },
+    {
+      "name": "马德豆沙の一口布丁",
+      "file": "一口布丁无漂浮.bdi",
+      "thumb": "一口布丁无漂浮.bdi_py_26_light_thumb.png",
+      "full": "一口布丁无漂浮.bdi_py_26_light_thumb.png",
+      "file_id": "9e82ce9e86c2f968e3bc42fcb060b47c"
     }
-  ],
-  "updated_at": "2026-09-15T15:54:22+00:00"
+  ]
 }
