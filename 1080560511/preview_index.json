@@ -1,14 +1,8 @@
 {
   "qq_number": "1284513499",
   "group_number": "1080560511",
-  "updated_at": "2026-09-17T08:28:54+00:00",
+  "updated_at": "2026-09-17T08:42:45+00:00",
   "skins": [
-    {
-      "name": "马德豆沙の面包坊开业啦！",
-      "file": "面包坊开业啦闷无漂浮.bds",
-      "thumb": "面包坊开业啦闷无漂浮.bds_py_26_light_thumb.png",
-      "full": "面包坊开业啦闷无漂浮.bds_py_26_light_thumb.png"
-    },
     {
       "name": "马德豆沙の面包坊开业啦！",
       "file": "面包坊开业啦闷.bds",
@@ -26,6 +20,12 @@
       "file": "面包坊开业啦闷脆无漂浮.bds",
       "thumb": "面包坊开业啦闷脆无漂浮.bds_py_26_light_thumb.png",
       "full": "面包坊开业啦闷脆无漂浮.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "马德豆沙の面包坊开业啦！",
+      "file": "面包坊开业啦闷无漂浮.bds",
+      "thumb": "面包坊开业啦闷无漂浮.bds_py_26_light_thumb.png",
+      "full": "面包坊开业啦闷无漂浮.bds_py_26_light_thumb.png"
     }
   ]
 }
