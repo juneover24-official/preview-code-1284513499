@@ -1,7 +1,7 @@
 {
   "qq_number": "1284513499",
   "group_number": "1075362361",
-  "updated_at": "2026-09-17T10:53:33+00:00",
+  "updated_at": "2026-09-17T10:54:41+00:00",
   "skins": [
     {
       "name": "马德豆沙の一口布丁",
@@ -47,6 +47,13 @@
       "thumb": "不爱学习爱溜号一.bdi_py_26_light_thumb.png",
       "full": "不爱学习爱溜号一.bdi_py_26_light_thumb.png",
       "file_id": "bbecfdfa6b05630e8e301ff568f70d46"
+    },
+    {
+      "name": "马德豆沙の不爱学习爱溜号",
+      "file": "不爱学习爱溜号二.bdi",
+      "thumb": "不爱学习爱溜号二.bdi_py_26_light_thumb.png",
+      "full": "不爱学习爱溜号二.bdi_py_26_light_thumb.png",
+      "file_id": "8ca7804f630c75a78fbfc1651cf580f3"
     }
   ]
 }
