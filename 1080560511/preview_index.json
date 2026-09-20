@@ -1,7 +1,7 @@
 {
   "qq_number": "1284513499",
   "group_number": "1080560511",
-  "updated_at": "2026-09-20T03:45:34+00:00",
+  "updated_at": "2026-09-20T03:45:59+00:00",
   "skins": [
     {
       "name": "马德豆沙の面包坊开业啦！",
@@ -29,17 +29,17 @@
     },
     {
       "name": "马德豆沙の不爱学习爱溜号",
-      "file": "不爱学习爱溜号二.bds",
-      "thumb": "不爱学习爱溜号二.bds_py_26_light_thumb.png",
-      "full": "不爱学习爱溜号二.bds_py_26_light_thumb.png",
-      "file_id": "5d0a630432221b0dbf2cc7457e190559"
-    },
-    {
-      "name": "马德豆沙の不爱学习爱溜号",
       "file": "不爱学习爱溜号一.bds",
       "thumb": "不爱学习爱溜号一.bds_py_26_light_thumb.png",
       "full": "不爱学习爱溜号一.bds_py_26_light_thumb.png",
       "file_id": "8a374bae45bfe367f35772c275cbff61"
+    },
+    {
+      "name": "马德豆沙の不爱学习爱溜号",
+      "file": "不爱学习爱溜号二.bds",
+      "thumb": "不爱学习爱溜号二.bds_py_26_light_thumb.png",
+      "full": "不爱学习爱溜号二.bds_py_26_light_thumb.png",
+      "file_id": "5d0a630432221b0dbf2cc7457e190559"
     }
   ]
 }
