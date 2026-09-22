@@ -1,7 +1,7 @@
 {
   "qq_number": "1284513499",
   "group_number": "1080560511",
-  "updated_at": "2026-09-22T08:49:29+00:00",
+  "updated_at": "2026-09-22T08:54:25+00:00",
   "skins": [
     {
       "name": "马德豆沙の面包坊开业啦！",
@@ -74,6 +74,13 @@
       "file": "好好刷牙闷.bds",
       "thumb": "好好刷牙闷.bds_py_26_light_thumb.png",
       "full": "好好刷牙闷.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "马德豆沙の好好刷牙",
+      "file": "好好刷牙脆闷.bds",
+      "thumb": "好好刷牙脆闷.bds_py_26_light_thumb.png",
+      "full": "好好刷牙脆闷.bds_py_26_light_thumb.png",
+      "file_id": "7b61f833af9f0fe4a5ac266e65e510d9"
     }
   ]
 }
