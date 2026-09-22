@@ -1,7 +1,7 @@
 {
   "qq_number": "1284513499",
   "group_number": "1075362361",
-  "updated_at": "2026-09-22T08:53:49+00:00",
+  "updated_at": "2026-09-22T08:54:18+00:00",
   "skins": [
     {
       "name": "马德豆沙の一口布丁",
@@ -103,13 +103,6 @@
     },
     {
       "name": "马德豆沙の好好刷牙",
-      "file": "好好刷牙闷无漂浮.bdi",
-      "thumb": "好好刷牙闷无漂浮.bdi_py_26_light_thumb.png",
-      "full": "好好刷牙闷无漂浮.bdi_py_26_light_thumb.png",
-      "file_id": "8238e7df5ef602ad3878efac602fe414"
-    },
-    {
-      "name": "马德豆沙の好好刷牙",
       "file": "好好刷牙闷.bdi",
       "thumb": "好好刷牙闷.bdi_py_26_light_thumb.png",
       "full": "好好刷牙闷.bdi_py_26_light_thumb.png",
@@ -121,6 +114,13 @@
       "thumb": "好好刷牙脆闷.bdi_py_26_light_thumb.png",
       "full": "好好刷牙脆闷.bdi_py_26_light_thumb.png",
       "file_id": "8a993855079e5acf95cef94493244a6d"
+    },
+    {
+      "name": "马德豆沙の好好刷牙",
+      "file": "好好刷牙闷无漂浮.bdi",
+      "thumb": "好好刷牙闷无漂浮.bdi_py_26_light_thumb.png",
+      "full": "好好刷牙闷无漂浮.bdi_py_26_light_thumb.png",
+      "file_id": "8238e7df5ef602ad3878efac602fe414"
     }
   ]
 }
