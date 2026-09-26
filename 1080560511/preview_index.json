@@ -1,7 +1,7 @@
 {
   "qq_number": "1284513499",
   "group_number": "1080560511",
-  "updated_at": "2026-09-26T09:30:48+00:00",
+  "updated_at": "2026-09-26T09:30:57+00:00",
   "skins": [
     {
       "name": "马德豆沙の面包坊开业啦！",
@@ -102,6 +102,13 @@
       "thumb": "小熊超忙的无漂浮.bds_py_26_light_thumb.png",
       "full": "小熊超忙的无漂浮.bds_py_26_light_thumb.png",
       "file_id": "c5e219e90eed67de24850d0d52d7f31b"
+    },
+    {
+      "name": "马德豆沙の小熊超忙的",
+      "file": "小熊超忙的.bds",
+      "thumb": "小熊超忙的.bds_py_26_light_thumb.png",
+      "full": "小熊超忙的.bds_py_26_light_thumb.png",
+      "file_id": "b93a3489f5289584fc14a169dc0316fd"
     }
   ]
 }
