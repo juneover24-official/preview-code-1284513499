@@ -1,7 +1,7 @@
 {
   "qq_number": "1284513499",
   "group_number": "1075362361",
-  "updated_at": "2026-09-26T09:22:27+00:00",
+  "updated_at": "2026-09-26T09:22:31+00:00",
   "skins": [
     {
       "name": "马德豆沙の一口布丁",
@@ -127,6 +127,12 @@
       "file": "小熊超忙的无漂浮.bdi",
       "thumb": "小熊超忙的无漂浮.bdi_py_26_light_thumb.png",
       "full": "小熊超忙的无漂浮.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "马德豆沙の小熊超忙的",
+      "file": "小熊超忙的.bdi",
+      "thumb": "小熊超忙的.bdi_py_26_light_thumb.png",
+      "full": "小熊超忙的.bdi_py_26_light_thumb.png"
     }
   ]
 }
