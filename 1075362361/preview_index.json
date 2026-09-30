@@ -1,7 +1,7 @@
 {
   "qq_number": "1284513499",
   "group_number": "1075362361",
-  "updated_at": "2026-09-30T07:31:23+00:00",
+  "updated_at": "2026-09-30T07:31:52+00:00",
   "skins": [
     {
       "name": "马德豆沙の一口布丁",
@@ -136,13 +136,6 @@
     },
     {
       "name": "马德豆沙の秋天有点乏",
-      "file": "秋天有点乏二无漂浮.bdi",
-      "thumb": "秋天有点乏二无漂浮.bdi_py_26_light_thumb.png",
-      "full": "秋天有点乏二无漂浮.bdi_py_26_light_thumb.png",
-      "file_id": "15bf28912d6e51beceae6e7caceea8f7"
-    },
-    {
-      "name": "马德豆沙の秋天有点乏",
       "file": "秋天有点乏一.bdi",
       "thumb": "秋天有点乏一.bdi_py_26_light_thumb.png",
       "full": "秋天有点乏一.bdi_py_26_light_thumb.png",
@@ -161,6 +154,13 @@
       "thumb": "秋天有点乏一无漂浮.bdi_py_26_light_thumb.png",
       "full": "秋天有点乏一无漂浮.bdi_py_26_light_thumb.png",
       "file_id": "27dc872657803c4378953755a5e7778a"
+    },
+    {
+      "name": "马德豆沙の秋天有点乏",
+      "file": "秋天有点乏二无漂浮.bdi",
+      "thumb": "秋天有点乏二无漂浮.bdi_py_26_light_thumb.png",
+      "full": "秋天有点乏二无漂浮.bdi_py_26_light_thumb.png",
+      "file_id": "15bf28912d6e51beceae6e7caceea8f7"
     }
   ]
 }
