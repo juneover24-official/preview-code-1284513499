@@ -1,7 +1,7 @@
 {
   "qq_number": "1284513499",
   "group_number": "1075362361",
-  "updated_at": "2026-09-30T06:57:38+00:00",
+  "updated_at": "2026-09-30T06:57:46+00:00",
   "skins": [
     {
       "name": "马德豆沙の一口布丁",
@@ -154,6 +154,13 @@
       "thumb": "秋天有点乏二.bdi_py_26_light_thumb.png",
       "full": "秋天有点乏二.bdi_py_26_light_thumb.png",
       "file_id": "5e637424ee777f34c747cc7afc84c41b"
+    },
+    {
+      "name": "马德豆沙の秋天有点乏",
+      "file": "秋天有点乏一.bdi",
+      "thumb": "秋天有点乏一.bdi_py_26_light_thumb.png",
+      "full": "秋天有点乏一.bdi_py_26_light_thumb.png",
+      "file_id": "4926e6d8779e3dbfd3852939c9f80acc"
     }
   ]
 }
