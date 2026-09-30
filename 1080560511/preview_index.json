@@ -1,7 +1,7 @@
 {
   "qq_number": "1284513499",
   "group_number": "1080560511",
-  "updated_at": "2026-09-30T07:06:23+00:00",
+  "updated_at": "2026-09-30T07:18:09+00:00",
   "skins": [
     {
       "name": "马德豆沙の面包坊开业啦！",
@@ -121,6 +121,13 @@
       "file": "秋天有点乏二无漂浮.bds",
       "thumb": "秋天有点乏二无漂浮.bds_py_26_light_thumb.png",
       "full": "秋天有点乏二无漂浮.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "马德豆沙の秋天有点乏",
+      "file": "秋天有点乏二.bds",
+      "thumb": "秋天有点乏二.bds_py_26_light_thumb.png",
+      "full": "秋天有点乏二.bds_py_26_light_thumb.png",
+      "file_id": "41d116c2f7a89959aea937665a5aff07"
     }
   ]
 }
