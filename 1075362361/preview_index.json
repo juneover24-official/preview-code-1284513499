@@ -1,7 +1,7 @@
 {
   "qq_number": "1284513499",
   "group_number": "1075362361",
-  "updated_at": "2026-09-30T07:32:05+00:00",
+  "updated_at": "2026-10-02T07:25:35+00:00",
   "skins": [
     {
       "name": "马德豆沙の一口布丁",
@@ -161,6 +161,13 @@
       "thumb": "秋天有点乏二无漂浮.bdi_py_26_light_thumb.png",
       "full": "秋天有点乏二无漂浮.bdi_py_26_light_thumb.png",
       "file_id": "15bf28912d6e51beceae6e7caceea8f7"
+    },
+    {
+      "name": "马德豆沙の饿了么小猪",
+      "file": "饿了么小猪无漂浮.bdi",
+      "thumb": "饿了么小猪无漂浮.bdi_py_26_light_thumb.png",
+      "full": "饿了么小猪无漂浮.bdi_py_26_light_thumb.png",
+      "file_id": "aa55d285443bd2a8344d45d70df4c0a7"
     }
   ]
 }
