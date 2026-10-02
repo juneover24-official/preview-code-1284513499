@@ -1,7 +1,7 @@
 {
   "qq_number": "1284513499",
   "group_number": "1080560511",
-  "updated_at": "2026-10-02T07:29:02+00:00",
+  "updated_at": "2026-10-02T07:29:07+00:00",
   "skins": [
     {
       "name": "马德豆沙の面包坊开业啦！",
@@ -141,6 +141,12 @@
       "file": "饿了么小猪无漂浮.bds",
       "thumb": "饿了么小猪无漂浮.bds_py_26_light_thumb.png",
       "full": "饿了么小猪无漂浮.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "马德豆沙の饿了么小猪",
+      "file": "饿了么小猪.bds",
+      "thumb": "饿了么小猪.bds_py_26_light_thumb.png",
+      "full": "饿了么小猪.bds_py_26_light_thumb.png"
     }
   ]
 }
