@@ -1,7 +1,7 @@
 {
   "qq_number": "1284513499",
   "group_number": "1080560511",
-  "updated_at": "2026-10-05T10:21:01+00:00",
+  "updated_at": "2026-10-05T10:21:07+00:00",
   "skins": [
     {
       "name": "马德豆沙の面包坊开业啦！",
@@ -167,6 +167,13 @@
       "thumb": "生活碎片脆.bds_py_26_light_thumb.png",
       "full": "生活碎片脆.bds_py_26_light_thumb.png",
       "file_id": "e93f60540a87eca56d2f5c04cae16e9c"
+    },
+    {
+      "name": "马德豆沙の生活碎片",
+      "file": "生活碎片脆无漂浮.bds",
+      "thumb": "生活碎片脆无漂浮.bds_py_26_light_thumb.png",
+      "full": "生活碎片脆无漂浮.bds_py_26_light_thumb.png",
+      "file_id": "99bf81d4c79760d55f4c98a6cb28d75a"
     }
   ]
 }
