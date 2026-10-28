@@ -1,7 +1,7 @@
 {
   "qq_number": "1284513499",
   "group_number": "807922931",
-  "updated_at": "2026-10-28T13:03:40+00:00",
+  "updated_at": "2026-10-28T13:04:49+00:00",
   "skins": [
     {
       "name": "马德豆沙の熊大厨",
@@ -97,6 +97,13 @@
       "thumb": "动物园vlog.bdi_py_26_light_thumb.png",
       "full": "动物园vlog.bdi_py_26_light_thumb.png",
       "file_id": "c06f7fcdf44b2ae9f7c614b5f047ff3a"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "童年的快乐.bdi",
+      "thumb": "童年的快乐.bdi_py_26_light_thumb.png",
+      "full": "童年的快乐.bdi_py_26_light_thumb.png",
+      "file_id": "99a37eed52a9019569c2c44dc69c5d88"
     }
   ]
 }
