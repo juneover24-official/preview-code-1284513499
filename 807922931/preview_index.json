@@ -1,7 +1,7 @@
 {
   "qq_number": "1284513499",
   "group_number": "807922931",
-  "updated_at": "2026-10-28T12:40:57+00:00",
+  "updated_at": "2026-10-28T12:42:00+00:00",
   "skins": [
     {
       "name": "马德豆沙の熊大厨",
@@ -48,6 +48,13 @@
       "thumb": "一口炸鸡.bdi_py_26_light_thumb.png",
       "full": "一口炸鸡.bdi_py_26_light_thumb.png",
       "file_id": "6a5849c91bcf82b81427ee90f2bf5311"
+    },
+    {
+      "name": "马德豆沙の一口炸鸡一口可乐",
+      "file": "一口可乐无漂浮.bdi",
+      "thumb": "一口可乐无漂浮.bdi_py_26_light_thumb.png",
+      "full": "一口可乐无漂浮.bdi_py_26_light_thumb.png",
+      "file_id": "00b412c0bf79d53ef6d614b1f8de8a19"
     }
   ]
 }
