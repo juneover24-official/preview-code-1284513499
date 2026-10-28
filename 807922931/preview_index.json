@@ -1,13 +1,19 @@
 {
   "qq_number": "1284513499",
   "group_number": "807922931",
+  "updated_at": "2026-10-28T08:35:43+00:00",
   "skins": [
     {
       "name": "马德豆沙の熊大厨",
       "file": "熊大厨二.bdi",
       "thumb": "熊大厨二.bdi_py_26_light_thumb.png",
       "full": "熊大厨二.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "马德豆沙の熊大厨",
+      "file": "熊大厨二无漂浮.bdi",
+      "thumb": "熊大厨二无漂浮.bdi_py_26_light_thumb.png",
+      "full": "熊大厨二无漂浮.bdi_py_26_light_thumb.png"
     }
-  ],
-  "updated_at": "2026-10-28T08:35:35+00:00"
+  ]
 }
