@@ -1,7 +1,7 @@
 {
   "qq_number": "1284513499",
   "group_number": "1102469197",
-  "updated_at": "2026-10-29T07:54:52+00:00",
+  "updated_at": "2026-10-29T08:04:54+00:00",
   "skins": [
     {
       "name": "马德豆沙の熊大厨",
@@ -33,6 +33,13 @@
       "thumb": "黑皮公主无漂浮.bds_py_26_light_thumb.png",
       "full": "黑皮公主无漂浮.bds_py_26_light_thumb.png",
       "file_id": "14d98f000eb381e987f759b007fa6018"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "童年的快乐无漂浮.bds",
+      "thumb": "童年的快乐无漂浮.bds_py_26_light_thumb.png",
+      "full": "童年的快乐无漂浮.bds_py_26_light_thumb.png",
+      "file_id": "3109fecde48f009ca21145142973b313"
     }
   ]
 }
