@@ -1,7 +1,7 @@
 {
   "qq_number": "1284513499",
   "group_number": "1102469197",
-  "updated_at": "2026-10-29T08:06:16+00:00",
+  "updated_at": "2026-10-29T08:07:04+00:00",
   "skins": [
     {
       "name": "马德豆沙の熊大厨",
@@ -54,6 +54,13 @@
       "thumb": "动物园vlog无漂浮.bds_py_26_light_thumb.png",
       "full": "动物园vlog无漂浮.bds_py_26_light_thumb.png",
       "file_id": "9c43669079c672f0bfc8bb80fa8e9014"
+    },
+    {
+      "name": "马德豆沙の动物园vlog",
+      "file": "动物园vlog.bds",
+      "thumb": "动物园vlog.bds_py_26_light_thumb.png",
+      "full": "动物园vlog.bds_py_26_light_thumb.png",
+      "file_id": "a92b006b1ab1b118c08f5e8378fd4d0a"
     }
   ]
 }
