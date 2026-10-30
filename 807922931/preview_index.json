@@ -1,7 +1,7 @@
 {
   "qq_number": "1284513499",
   "group_number": "807922931",
-  "updated_at": "2026-10-30T08:50:21+00:00",
+  "updated_at": "2026-10-30T08:53:17+00:00",
   "skins": [
     {
       "name": "马德豆沙の熊大厨",
@@ -128,16 +128,16 @@
     },
     {
       "name": "马德豆沙の两个煤球",
+      "file": "两个煤球无漂浮.bdi",
+      "thumb": "两个煤球无漂浮.bdi_py_26_light_thumb.png",
+      "full": "两个煤球无漂浮.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "马德豆沙の两个煤球",
       "file": "两个煤球.bdi",
       "thumb": "两个煤球.bdi_py_26_light_thumb.png",
       "full": "两个煤球.bdi_py_26_light_thumb.png",
       "file_id": "f63d61a155650c14ac8af592dfe71a0f"
-    },
-    {
-      "name": "马德豆沙の两个煤球",
-      "file": "两个煤球无漂浮.bdi",
-      "thumb": "两个煤球无漂浮.bdi_py_26_light_thumb.png",
-      "full": "两个煤球无漂浮.bdi_py_26_light_thumb.png"
     }
   ]
 }
