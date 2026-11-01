@@ -1,7 +1,7 @@
 {
   "qq_number": "1284513499",
   "group_number": "1102469197",
-  "updated_at": "2026-10-31T02:30:10+00:00",
+  "updated_at": "2026-11-01T00:59:25+00:00",
   "skins": [
     {
       "name": "马德豆沙の熊大厨",
@@ -131,6 +131,13 @@
       "thumb": "一口炸鸡无漂浮.bds_py_26_light_thumb.png",
       "full": "一口炸鸡无漂浮.bds_py_26_light_thumb.png",
       "file_id": "eb5f0a245ed1c13c971810ea1bb7d227"
+    },
+    {
+      "name": "马德豆沙の黑皮公主",
+      "file": "黑皮公主.bds",
+      "thumb": "黑皮公主.bds_py_26_light_thumb.png",
+      "full": "黑皮公主.bds_py_26_light_thumb.png",
+      "file_id": "9a6736213edfff4e20300dbc2ad05966"
     }
   ]
 }
