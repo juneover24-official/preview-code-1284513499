@@ -1,7 +1,7 @@
 {
   "qq_number": "1284513499",
   "group_number": "1102469197",
-  "updated_at": "2026-11-03T10:16:49+00:00",
+  "updated_at": "2026-11-03T10:20:32+00:00",
   "skins": [
     {
       "name": "马德豆沙の熊大厨",
@@ -138,6 +138,12 @@
       "thumb": "黑皮公主.bds_py_26_light_thumb.png",
       "full": "黑皮公主.bds_py_26_light_thumb.png",
       "file_id": "9a6736213edfff4e20300dbc2ad05966"
+    },
+    {
+      "name": "马德豆沙の勤劳咪咪酱",
+      "file": "勤劳咪咪酱无漂浮-按键不动.bds",
+      "thumb": "勤劳咪咪酱无漂浮-按键不动.bds_py_26_light_thumb.png",
+      "full": "勤劳咪咪酱无漂浮-按键不动.bds_py_26_light_thumb.png"
     }
   ]
 }
