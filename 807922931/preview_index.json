@@ -1,7 +1,7 @@
 {
   "qq_number": "1284513499",
   "group_number": "807922931",
-  "updated_at": "2026-11-05T10:42:22+00:00",
+  "updated_at": "2026-11-05T10:42:40+00:00",
   "skins": [
     {
       "name": "马德豆沙の熊大厨",
@@ -168,17 +168,17 @@
     },
     {
       "name": "马德豆沙の我们俩",
-      "file": "我们俩二无漂浮.bdi",
-      "thumb": "我们俩二无漂浮.bdi_py_26_light_thumb.png",
-      "full": "我们俩二无漂浮.bdi_py_26_light_thumb.png",
-      "file_id": "28fbf6cbeb5212cecec15573397ac043"
-    },
-    {
-      "name": "马德豆沙の我们俩",
       "file": "我们俩一无漂浮.bdi",
       "thumb": "我们俩一无漂浮.bdi_py_26_light_thumb.png",
       "full": "我们俩一无漂浮.bdi_py_26_light_thumb.png",
       "file_id": "f93a8f1080350b77bf61f8a3918c6afe"
+    },
+    {
+      "name": "马德豆沙の我们俩",
+      "file": "我们俩二无漂浮.bdi",
+      "thumb": "我们俩二无漂浮.bdi_py_26_light_thumb.png",
+      "full": "我们俩二无漂浮.bdi_py_26_light_thumb.png",
+      "file_id": "28fbf6cbeb5212cecec15573397ac043"
     }
   ]
 }
