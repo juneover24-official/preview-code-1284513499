@@ -1,7 +1,7 @@
 {
   "qq_number": "1284513499",
   "group_number": "807922931",
-  "updated_at": "2026-11-07T05:10:06+00:00",
+  "updated_at": "2026-11-07T05:10:19+00:00",
   "skins": [
     {
       "name": "马德豆沙の熊大厨",
@@ -200,6 +200,13 @@
       "thumb": "放假啦闷无漂浮.bdi_py_26_light_thumb.png",
       "full": "放假啦闷无漂浮.bdi_py_26_light_thumb.png",
       "file_id": "47707c5ed64c9b993ce072e711758ba0"
+    },
+    {
+      "name": "马德豆沙の放假啦",
+      "file": "放假啦脆.bdi",
+      "thumb": "放假啦脆.bdi_py_26_light_thumb.png",
+      "full": "放假啦脆.bdi_py_26_light_thumb.png",
+      "file_id": "9e142daab43d3cbe8fec70fd8e66993b"
     }
   ]
 }
