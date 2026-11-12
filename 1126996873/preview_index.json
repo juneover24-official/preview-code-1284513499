@@ -1,7 +1,7 @@
 {
   "qq_number": "1284513499",
   "group_number": "1126996873",
-  "updated_at": "2026-11-12T09:02:56+00:00",
+  "updated_at": "2026-11-12T09:05:39+00:00",
   "skins": [
     {
       "name": "马德豆沙の小熊宅家",
@@ -41,16 +41,17 @@
     },
     {
       "name": "马德豆沙の大象游戏机",
-      "file": "大象游戏机脆无漂浮.bdi",
-      "thumb": "大象游戏机脆无漂浮.bdi_py_26_light_thumb.png",
-      "full": "大象游戏机脆无漂浮.bdi_py_26_light_thumb.png"
-    },
-    {
-      "name": "马德豆沙の大象游戏机",
       "file": "大象游戏机闷无漂浮.bdi",
       "thumb": "大象游戏机闷无漂浮.bdi_py_26_light_thumb.png",
       "full": "大象游戏机闷无漂浮.bdi_py_26_light_thumb.png",
       "file_id": "91552479302eefe926f9b4403da707cd"
+    },
+    {
+      "name": "马德豆沙の大象游戏机",
+      "file": "大象游戏机脆无漂浮.bdi",
+      "thumb": "大象游戏机脆无漂浮.bdi_py_26_light_thumb.png",
+      "full": "大象游戏机脆无漂浮.bdi_py_26_light_thumb.png",
+      "file_id": "f0e8d9ebc7d5051aa7d7589fdebd3151"
     }
   ]
 }
