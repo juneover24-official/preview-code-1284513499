@@ -1,7 +1,7 @@
 {
   "qq_number": "1284513499",
   "group_number": "1126993208",
-  "updated_at": "2026-11-10T09:49:00+00:00",
+  "updated_at": "2026-11-12T08:50:36+00:00",
   "skins": [
     {
       "name": "马德豆沙の小熊宅家",
@@ -27,6 +27,12 @@
       "thumb": "小熊宅家闷.bds_py_26_light_thumb.png",
       "full": "小熊宅家闷.bds_py_26_light_thumb.png",
       "file_id": "c8d77268f4e81b7dfb65ef88f0981691"
+    },
+    {
+      "name": "马德豆沙の大象游戏机",
+      "file": "大象游戏机闷无漂浮.bds",
+      "thumb": "大象游戏机闷无漂浮.bds_py_26_light_thumb.png",
+      "full": "大象游戏机闷无漂浮.bds_py_26_light_thumb.png"
     }
   ]
 }
