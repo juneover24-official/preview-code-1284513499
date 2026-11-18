@@ -1,7 +1,7 @@
 {
   "qq_number": "1284513499",
   "group_number": "1126993208",
-  "updated_at": "2026-11-16T08:36:32+00:00",
+  "updated_at": "2026-11-18T10:19:50+00:00",
   "skins": [
     {
       "name": "马德豆沙の小熊宅家",
@@ -79,6 +79,12 @@
       "thumb": "爱吃寿司闷无漂浮.bds_py_26_light_thumb.png",
       "full": "爱吃寿司闷无漂浮.bds_py_26_light_thumb.png",
       "file_id": "aaa750b2d535fd3dfca5f5547ed1bb9c"
+    },
+    {
+      "name": "马德豆沙の抽象多巴胺",
+      "file": "抽象多巴胺闷脆.bds",
+      "thumb": "抽象多巴胺闷脆.bds_py_26_light_thumb.png",
+      "full": "抽象多巴胺闷脆.bds_py_26_light_thumb.png"
     }
   ]
 }
