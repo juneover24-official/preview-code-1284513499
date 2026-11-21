@@ -1,7 +1,7 @@
 {
   "qq_number": "1284513499",
   "group_number": "1126996873",
-  "updated_at": "2026-11-21T11:25:05+00:00",
+  "updated_at": "2026-11-21T11:25:43+00:00",
   "skins": [
     {
       "name": "马德豆沙の小熊宅家",
@@ -107,12 +107,6 @@
     },
     {
       "name": "马德豆沙の秋假出去玩",
-      "file": "秋假出去玩脆.bdi",
-      "thumb": "秋假出去玩脆.bdi_py_26_light_thumb.png",
-      "full": "秋假出去玩脆.bdi_py_26_light_thumb.png"
-    },
-    {
-      "name": "马德豆沙の秋假出去玩",
       "file": "秋假出去玩闷无漂浮.bdi",
       "thumb": "秋假出去玩闷无漂浮.bdi_py_26_light_thumb.png",
       "full": "秋假出去玩闷无漂浮.bdi_py_26_light_thumb.png"
@@ -130,6 +124,13 @@
       "thumb": "秋假出去玩闷.bdi_py_26_light_thumb.png",
       "full": "秋假出去玩闷.bdi_py_26_light_thumb.png",
       "file_id": "bfb06fcaa995d260f07ae02d4ee070e3"
+    },
+    {
+      "name": "马德豆沙の秋假出去玩",
+      "file": "秋假出去玩脆.bdi",
+      "thumb": "秋假出去玩脆.bdi_py_26_light_thumb.png",
+      "full": "秋假出去玩脆.bdi_py_26_light_thumb.png",
+      "file_id": "6f048b16891bf0b32713ceba91620b98"
     }
   ]
 }
