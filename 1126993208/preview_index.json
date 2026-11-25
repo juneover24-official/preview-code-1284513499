@@ -1,7 +1,7 @@
 {
   "qq_number": "1284513499",
   "group_number": "1126993208",
-  "updated_at": "2026-11-25T08:45:57+00:00",
+  "updated_at": "2026-11-25T08:50:55+00:00",
   "skins": [
     {
       "name": "马德豆沙の小熊宅家",
@@ -145,6 +145,13 @@
       "file": "哈哈哈哈哈脆.bds",
       "thumb": "哈哈哈哈哈脆.bds_py_26_light_thumb.png",
       "full": "哈哈哈哈哈脆.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "马德豆沙の哈哈哈哈哈",
+      "file": "哈哈哈哈哈脆无漂浮.bds",
+      "thumb": "哈哈哈哈哈脆无漂浮.bds_py_26_light_thumb.png",
+      "full": "哈哈哈哈哈脆无漂浮.bds_py_26_light_thumb.png",
+      "file_id": "768abab0902095334ba9fafd2aba5d2a"
     }
   ]
 }
