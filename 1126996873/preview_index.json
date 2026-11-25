@@ -1,7 +1,7 @@
 {
   "qq_number": "1284513499",
   "group_number": "1126996873",
-  "updated_at": "2026-11-21T11:29:39+00:00",
+  "updated_at": "2026-11-25T08:43:50+00:00",
   "skins": [
     {
       "name": "马德豆沙の小熊宅家",
@@ -132,6 +132,12 @@
       "thumb": "秋假出去玩闷无漂浮.bdi_py_26_light_thumb.png",
       "full": "秋假出去玩闷无漂浮.bdi_py_26_light_thumb.png",
       "file_id": "6878c23d52fda8cf02ba9b627991a506"
+    },
+    {
+      "name": "马德豆沙の哈哈哈哈哈",
+      "file": "哈哈哈哈哈脆无漂浮.bdi",
+      "thumb": "哈哈哈哈哈脆无漂浮.bdi_py_26_light_thumb.png",
+      "full": "哈哈哈哈哈脆无漂浮.bdi_py_26_light_thumb.png"
     }
   ]
 }
